@@ -1,0 +1,13 @@
+.basic-input {
+    border: 3px solid #ccc;
+    color: #616161;
+    outline: 0;
+    padding: 7px;
+    font-size: 1.0em;
+    min-width: 250px;
+    border-radius: 5px;
+    background: url('/password-lock.png') no-repeat 10px 8px;
+    background-size: 17px 17px;
+    margin-left: 15px;
+    padding-left: 30px;
+}
